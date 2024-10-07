@@ -1,0 +1,15 @@
+- !<AssetCache/85652bbf-c2ce-52b4-be29-a4221a0cb08f>
+  AssetFiles:
+    3c313908-765a-40bd-9f28-306368ac1ffc: eaca4490-3720-4b1c-ac9b-2212c015fc59/85652bbfc2ce52b4be29a4221a0cb08f/Data/champagne_glass_color.png
+  AssetCurrentFiles:
+    3c313908-765a-40bd-9f28-306368ac1ffc: eaca4490-3720-4b1c-ac9b-2212c015fc59/85652bbfc2ce52b4be29a4221a0cb08f/Data/Performance/Medium/champagne_glass_color.pvr
+  Assets:
+    - !<FileTexture/3c313908-765a-40bd-9f28-306368ac1ffc>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 256
+        Height: 256
+  SourceHash: 85652bbfc2ce52b4be29a4221a0cb08f
+  FileHash: 005b7d13cccb4c2c7a38ba1244312dda
+  NativePackageItems:
+    []

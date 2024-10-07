@@ -1,0 +1,15 @@
+- !<AssetCache/876bddaa-feaf-2819-2a3b-f41fb7e861fd>
+  AssetFiles:
+    ff4d32e1-56fc-4f35-97a0-83bc8916701c: 5ce19c21-c784-49a8-81fa-9578ba7043a3/876bddaafeaf28192a3bf41fb7e861fd/Data/dock_color.jpg
+  AssetCurrentFiles:
+    ff4d32e1-56fc-4f35-97a0-83bc8916701c: 5ce19c21-c784-49a8-81fa-9578ba7043a3/876bddaafeaf28192a3bf41fb7e861fd/Data/Size/High/dock_color.jpg
+  Assets:
+    - !<FileTexture/ff4d32e1-56fc-4f35-97a0-83bc8916701c>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 1024
+        Height: 1024
+  SourceHash: 876bddaafeaf28192a3bf41fb7e861fd
+  FileHash: ebe67fd39dd01cd05e371fa4adac5e51
+  NativePackageItems:
+    []

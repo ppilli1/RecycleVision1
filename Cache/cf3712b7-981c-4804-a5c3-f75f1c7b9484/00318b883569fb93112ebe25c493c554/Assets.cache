@@ -1,0 +1,15 @@
+- !<AssetCache/00318b88-3569-fb93-112e-be25c493c554>
+  AssetFiles:
+    5b30d2a2-7313-459a-840f-f51b2db8ffb3: cf3712b7-981c-4804-a5c3-f75f1c7b9484/00318b883569fb93112ebe25c493c554/Data/seesaw_color.png
+  AssetCurrentFiles:
+    5b30d2a2-7313-459a-840f-f51b2db8ffb3: cf3712b7-981c-4804-a5c3-f75f1c7b9484/00318b883569fb93112ebe25c493c554/Data/Performance/Medium/seesaw_color.pvr
+  Assets:
+    - !<FileTexture/5b30d2a2-7313-459a-840f-f51b2db8ffb3>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 1024
+        Height: 1024
+  SourceHash: 00318b883569fb93112ebe25c493c554
+  FileHash: 2c6567a610693bf5ea6dab2f0c65bb9e
+  NativePackageItems:
+    []

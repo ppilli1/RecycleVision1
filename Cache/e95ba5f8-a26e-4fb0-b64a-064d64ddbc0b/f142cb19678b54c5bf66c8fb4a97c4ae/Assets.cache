@@ -1,0 +1,15 @@
+- !<AssetCache/f142cb19-678b-54c5-bf66-c8fb4a97c4ae>
+  AssetFiles:
+    5fa549be-35d8-40ed-8ae6-f8d72ea2edd8: e95ba5f8-a26e-4fb0-b64a-064d64ddbc0b/f142cb19678b54c5bf66c8fb4a97c4ae/Data/nightstand_color.png
+  AssetCurrentFiles:
+    5fa549be-35d8-40ed-8ae6-f8d72ea2edd8: e95ba5f8-a26e-4fb0-b64a-064d64ddbc0b/f142cb19678b54c5bf66c8fb4a97c4ae/Data/Performance/Medium/nightstand_color.pvr
+  Assets:
+    - !<FileTexture/5fa549be-35d8-40ed-8ae6-f8d72ea2edd8>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 512
+        Height: 512
+  SourceHash: f142cb19678b54c5bf66c8fb4a97c4ae
+  FileHash: 3667a22275b7b1c1b5318fabbe021b32
+  NativePackageItems:
+    []

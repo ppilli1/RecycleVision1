@@ -1,0 +1,15 @@
+- !<AssetCache/27d3fcb2-a418-8d04-ea7d-43b4d0f5a467>
+  AssetFiles:
+    30894e56-23bd-480a-affc-d02f5b2b39d1: 362bd820-641b-4729-aab7-e80c76c5de83/27d3fcb2a4188d04ea7d43b4d0f5a467/Data/sewer_grate_color.png
+  AssetCurrentFiles:
+    30894e56-23bd-480a-affc-d02f5b2b39d1: 362bd820-641b-4729-aab7-e80c76c5de83/27d3fcb2a4188d04ea7d43b4d0f5a467/Data/Performance/Medium/sewer_grate_color.pvr
+  Assets:
+    - !<FileTexture/30894e56-23bd-480a-affc-d02f5b2b39d1>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 512
+        Height: 512
+  SourceHash: 27d3fcb2a4188d04ea7d43b4d0f5a467
+  FileHash: 50784cb23fdb28815a60a44a451fc305
+  NativePackageItems:
+    []

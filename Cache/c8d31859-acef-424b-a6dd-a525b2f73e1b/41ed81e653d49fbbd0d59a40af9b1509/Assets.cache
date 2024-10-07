@@ -1,0 +1,18 @@
+- !<AssetCache/41ed81e6-53d4-9fbb-d0d5-9a40af9b1509>
+  AssetFiles:
+    e0a91b65-ccd3-4325-aa62-5f822b599564: c8d31859-acef-424b-a6dd-a525b2f73e1b/41ed81e653d49fbbd0d59a40af9b1509/Data/C_ketchupTable_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/e0a91b65-ccd3-4325-aa62-5f822b599564>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 206
+        Vertices: 224
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: 41ed81e653d49fbbd0d59a40af9b1509
+  FileHash: 33bb3cebaf0d35c39cbc646775f454b6
+  NativePackageItems:
+    []

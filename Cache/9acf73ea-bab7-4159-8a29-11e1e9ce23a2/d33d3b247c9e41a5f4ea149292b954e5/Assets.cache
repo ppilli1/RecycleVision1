@@ -1,0 +1,18 @@
+- !<AssetCache/d33d3b24-7c9e-41a5-f4ea-149292b954e5>
+  AssetFiles:
+    ad755b9c-7110-4ae9-ae10-4d9073e5f2a3: 9acf73ea-bab7-4159-8a29-11e1e9ce23a2/d33d3b247c9e41a5f4ea149292b954e5/Data/C_cup_coffee_togo_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/ad755b9c-7110-4ae9-ae10-4d9073e5f2a3>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 452
+        Vertices: 464
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: d33d3b247c9e41a5f4ea149292b954e5
+  FileHash: 3897c07073d29b8b3ccad93ca22dcd9f
+  NativePackageItems:
+    []

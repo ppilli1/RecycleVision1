@@ -1,0 +1,15 @@
+- !<AssetCache/c48144df-c6ba-e513-1596-4de2bd53977f>
+  AssetFiles:
+    0a9c8862-fb8d-441e-b6e2-ef90811d31e9: ad454afd-17e5-45dc-b383-f11de5bec331/c48144dfc6bae51315964de2bd53977f/Data/bin_trash_tall_color.png
+  AssetCurrentFiles:
+    0a9c8862-fb8d-441e-b6e2-ef90811d31e9: ad454afd-17e5-45dc-b383-f11de5bec331/c48144dfc6bae51315964de2bd53977f/Data/Performance/Medium/bin_trash_tall_color.pvr
+  Assets:
+    - !<FileTexture/0a9c8862-fb8d-441e-b6e2-ef90811d31e9>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 512
+        Height: 512
+  SourceHash: c48144dfc6bae51315964de2bd53977f
+  FileHash: de8b863902c183cf1577199295bc444e
+  NativePackageItems:
+    []

@@ -1,0 +1,15 @@
+- !<AssetCache/857eaa3b-d643-deac-2079-b14c48a5ab34>
+  AssetFiles:
+    0ccee092-1a80-45d9-bf8c-866766c8b457: a50bb43c-c3f2-4c63-af84-1675f95506aa/857eaa3bd643deac2079b14c48a5ab34/Data/glass_water_color.png
+  AssetCurrentFiles:
+    0ccee092-1a80-45d9-bf8c-866766c8b457: a50bb43c-c3f2-4c63-af84-1675f95506aa/857eaa3bd643deac2079b14c48a5ab34/Data/Performance/Medium/glass_water_color.pvr
+  Assets:
+    - !<FileTexture/0ccee092-1a80-45d9-bf8c-866766c8b457>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 256
+        Height: 256
+  SourceHash: 857eaa3bd643deac2079b14c48a5ab34
+  FileHash: 05f86224520b75118060c4286bb215cd
+  NativePackageItems:
+    []

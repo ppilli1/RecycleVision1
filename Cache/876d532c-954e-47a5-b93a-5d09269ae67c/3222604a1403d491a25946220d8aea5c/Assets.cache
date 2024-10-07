@@ -1,0 +1,15 @@
+- !<AssetCache/3222604a-1403-d491-a259-46220d8aea5c>
+  AssetFiles:
+    79e9b36f-cc73-4612-a617-644a09935d9a: 876d532c-954e-47a5-b93a-5d09269ae67c/3222604a1403d491a25946220d8aea5c/Data/fancy_glass_color.png
+  AssetCurrentFiles:
+    79e9b36f-cc73-4612-a617-644a09935d9a: 876d532c-954e-47a5-b93a-5d09269ae67c/3222604a1403d491a25946220d8aea5c/Data/Performance/Medium/fancy_glass_color.pvr
+  Assets:
+    - !<FileTexture/79e9b36f-cc73-4612-a617-644a09935d9a>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 1024
+        Height: 1024
+  SourceHash: 3222604a1403d491a25946220d8aea5c
+  FileHash: 2ac50c4ac0da8955a6acd2a2140e5439
+  NativePackageItems:
+    []

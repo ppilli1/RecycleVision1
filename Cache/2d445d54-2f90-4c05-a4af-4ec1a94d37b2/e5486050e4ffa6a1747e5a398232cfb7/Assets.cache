@@ -1,0 +1,15 @@
+- !<AssetCache/e5486050-e4ff-a6a1-747e-5a398232cfb7>
+  AssetFiles:
+    fd0adbae-360a-423e-86c8-1cb33d6c9619: 2d445d54-2f90-4c05-a4af-4ec1a94d37b2/e5486050e4ffa6a1747e5a398232cfb7/Data/umbrella_mocktail_color.png
+  AssetCurrentFiles:
+    fd0adbae-360a-423e-86c8-1cb33d6c9619: 2d445d54-2f90-4c05-a4af-4ec1a94d37b2/e5486050e4ffa6a1747e5a398232cfb7/Data/Performance/Medium/umbrella_mocktail_color.pvr
+  Assets:
+    - !<FileTexture/fd0adbae-360a-423e-86c8-1cb33d6c9619>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 512
+        Height: 512
+  SourceHash: e5486050e4ffa6a1747e5a398232cfb7
+  FileHash: e3197b974e85134b6bdb266aeadb4b20
+  NativePackageItems:
+    []

@@ -1,0 +1,15 @@
+- !<AssetCache/99f4fef2-9df5-c4b8-c340-fbd29e35f4f8>
+  AssetFiles:
+    ce1c6be8-7a0e-49f1-bf7a-060c4a20c894: df999b6b-0168-417f-87af-99eb1e14c461/99f4fef29df5c4b8c340fbd29e35f4f8/Data/traffic_barrel_color.png
+  AssetCurrentFiles:
+    ce1c6be8-7a0e-49f1-bf7a-060c4a20c894: df999b6b-0168-417f-87af-99eb1e14c461/99f4fef29df5c4b8c340fbd29e35f4f8/Data/Performance/Medium/traffic_barrel_color.pvr
+  Assets:
+    - !<FileTexture/ce1c6be8-7a0e-49f1-bf7a-060c4a20c894>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 512
+        Height: 512
+  SourceHash: 99f4fef29df5c4b8c340fbd29e35f4f8
+  FileHash: c79ad91a4ac67a6acc26f82fbcdea61c
+  NativePackageItems:
+    []

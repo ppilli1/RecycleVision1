@@ -1,0 +1,15 @@
+- !<AssetCache/460e079c-9ed5-c917-c06b-dda0b9a4d826>
+  AssetFiles:
+    ecd41b58-62cb-4be9-b376-fe4b083c7bca: 03b5d653-94aa-4219-ad58-dfe87f53b96b/460e079c9ed5c917c06bdda0b9a4d826/Data/bottle_mini_booze_color.png
+  AssetCurrentFiles:
+    ecd41b58-62cb-4be9-b376-fe4b083c7bca: 03b5d653-94aa-4219-ad58-dfe87f53b96b/460e079c9ed5c917c06bdda0b9a4d826/Data/Performance/Medium/bottle_mini_booze_color.pvr
+  Assets:
+    - !<FileTexture/ecd41b58-62cb-4be9-b376-fe4b083c7bca>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 1024
+        Height: 1024
+  SourceHash: 460e079c9ed5c917c06bdda0b9a4d826
+  FileHash: 283923566f22a35ee120692a2f1446ef
+  NativePackageItems:
+    []

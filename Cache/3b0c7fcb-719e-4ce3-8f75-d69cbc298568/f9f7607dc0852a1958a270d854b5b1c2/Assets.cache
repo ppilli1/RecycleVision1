@@ -1,0 +1,18 @@
+- !<AssetCache/f9f7607d-c085-2a19-58a2-70d854b5b1c2>
+  AssetFiles:
+    999d102f-5978-4c7d-ae59-19437c4ad5a9: 3b0c7fcb-719e-4ce3-8f75-d69cbc298568/f9f7607dc0852a1958a270d854b5b1c2/Data/C_sidewalk1_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/999d102f-5978-4c7d-ae59-19437c4ad5a9>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 64
+        Vertices: 70
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: f9f7607dc0852a1958a270d854b5b1c2
+  FileHash: 7e3cec8647d7e217c77348872d215829
+  NativePackageItems:
+    []

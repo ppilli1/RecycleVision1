@@ -1,0 +1,15 @@
+- !<AssetCache/1ad42768-9bc7-f0e1-219b-4a26d5f464be>
+  AssetFiles:
+    a8b7d3ce-fe30-438a-9067-4947911e2a32: 6f7bbb22-55ef-4c89-9f05-0f5f28956b81/1ad427689bc7f0e1219b4a26d5f464be/Data/bottle_water_color.png
+  AssetCurrentFiles:
+    a8b7d3ce-fe30-438a-9067-4947911e2a32: 6f7bbb22-55ef-4c89-9f05-0f5f28956b81/1ad427689bc7f0e1219b4a26d5f464be/Data/Performance/Medium/bottle_water_color.pvr
+  Assets:
+    - !<FileTexture/a8b7d3ce-fe30-438a-9067-4947911e2a32>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 512
+        Height: 512
+  SourceHash: 1ad427689bc7f0e1219b4a26d5f464be
+  FileHash: e64ede3bb06c55bc8738c2106433d149
+  NativePackageItems:
+    []

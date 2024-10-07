@@ -1,0 +1,18 @@
+- !<AssetCache/6027a45c-74c7-b852-8c29-a98fcb1c6532>
+  AssetFiles:
+    8441d9ab-f1b2-40df-a2f9-2db446e0677b: be176833-666c-4d07-ab31-376df13acdb2/6027a45c74c7b8528c29a98fcb1c6532/Data/C_hatchLip_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/8441d9ab-f1b2-40df-a2f9-2db446e0677b>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 240
+        Vertices: 246
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: 6027a45c74c7b8528c29a98fcb1c6532
+  FileHash: 2fb0a0e85ce85ff3837b69391b583bb3
+  NativePackageItems:
+    []

@@ -1,0 +1,15 @@
+- !<AssetCache/6b0f73f6-4fa4-e250-33e6-696365ff7903>
+  AssetFiles:
+    fba9bd55-5e31-4309-a537-96398c3f19f1: 60d7f848-706a-4cf0-94fc-f4a24698a450/6b0f73f64fa4e25033e6696365ff7903/Data/cup_coffee_togo_color.png
+  AssetCurrentFiles:
+    fba9bd55-5e31-4309-a537-96398c3f19f1: 60d7f848-706a-4cf0-94fc-f4a24698a450/6b0f73f64fa4e25033e6696365ff7903/Data/Performance/Medium/cup_coffee_togo_color.pvr
+  Assets:
+    - !<FileTexture/fba9bd55-5e31-4309-a537-96398c3f19f1>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 512
+        Height: 512
+  SourceHash: 6b0f73f64fa4e25033e6696365ff7903
+  FileHash: b49ed3492610e7aa2273c71ae8330e2d
+  NativePackageItems:
+    []

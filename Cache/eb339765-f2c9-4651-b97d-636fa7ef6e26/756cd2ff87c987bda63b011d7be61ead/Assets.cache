@@ -1,0 +1,18 @@
+- !<AssetCache/756cd2ff-87c9-87bd-a63b-011d7be61ead>
+  AssetFiles:
+    14b67e86-5740-44b4-bdbd-29b3a59c44cc: eb339765-f2c9-4651-b97d-636fa7ef6e26/756cd2ff87c987bda63b011d7be61ead/Data/C_stool_wooden_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/14b67e86-5740-44b4-bdbd-29b3a59c44cc>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 280
+        Vertices: 308
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: 756cd2ff87c987bda63b011d7be61ead
+  FileHash: cc1fecb98b92cb2085d061b46d997d4f
+  NativePackageItems:
+    []

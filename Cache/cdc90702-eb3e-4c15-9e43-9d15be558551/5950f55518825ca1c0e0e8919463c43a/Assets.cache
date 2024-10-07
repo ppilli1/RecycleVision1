@@ -1,0 +1,15 @@
+- !<AssetCache/5950f555-1882-5ca1-c0e0-e8919463c43a>
+  AssetFiles:
+    1f399be2-47e2-4de4-8702-52ff4b0da6cf: cdc90702-eb3e-4c15-9e43-9d15be558551/5950f55518825ca1c0e0e8919463c43a/Data/sofa_color.png
+  AssetCurrentFiles:
+    1f399be2-47e2-4de4-8702-52ff4b0da6cf: cdc90702-eb3e-4c15-9e43-9d15be558551/5950f55518825ca1c0e0e8919463c43a/Data/Performance/Medium/sofa_color.pvr
+  Assets:
+    - !<FileTexture/1f399be2-47e2-4de4-8702-52ff4b0da6cf>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 2048
+        Height: 2048
+  SourceHash: 5950f55518825ca1c0e0e8919463c43a
+  FileHash: dfb4151ee6ea0c8447ec4caa4fa2daea
+  NativePackageItems:
+    []

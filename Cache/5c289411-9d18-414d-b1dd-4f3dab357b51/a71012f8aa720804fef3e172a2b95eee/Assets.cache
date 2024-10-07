@@ -1,0 +1,18 @@
+- !<AssetCache/a71012f8-aa72-0804-fef3-e172a2b95eee>
+  AssetFiles:
+    794a8045-391f-471a-8c76-f526624ebbb0: 5c289411-9d18-414d-b1dd-4f3dab357b51/a71012f8aa720804fef3e172a2b95eee/Data/C_hatchOccluder_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/794a8045-391f-471a-8c76-f526624ebbb0>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 94
+        Vertices: 110
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: a71012f8aa720804fef3e172a2b95eee
+  FileHash: 28282eb34af4db9a4d2dba39ea607062
+  NativePackageItems:
+    []

@@ -1,0 +1,18 @@
+- !<AssetCache/39ca25c6-0a0a-e41c-f624-9a412c0d5e6c>
+  AssetFiles:
+    7fcc700a-b24d-41e2-9dd1-6eb7f5d2fcd6: d346a81f-f019-49f6-85ee-459453abe89c/39ca25c60a0ae41cf6249a412c0d5e6c/Data/C_bin_trash_tall_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/7fcc700a-b24d-41e2-9dd1-6eb7f5d2fcd6>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 68
+        Vertices: 118
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: 39ca25c60a0ae41cf6249a412c0d5e6c
+  FileHash: 8065c6b7bb5d6bf6a7bb54c2d0472819
+  NativePackageItems:
+    []

@@ -1,0 +1,15 @@
+- !<AssetCache/4f0f4c63-5740-d7c5-0d84-50ffae18e1e1>
+  AssetFiles:
+    147a731d-eff2-401c-96bf-dd44fda13245: 43b48301-27d9-4a02-a825-2fa30a1f4abc/4f0f4c635740d7c50d8450ffae18e1e1/Data/coffee_cup_empty_color.png
+  AssetCurrentFiles:
+    147a731d-eff2-401c-96bf-dd44fda13245: 43b48301-27d9-4a02-a825-2fa30a1f4abc/4f0f4c635740d7c50d8450ffae18e1e1/Data/Performance/Medium/coffee_cup_empty_color.pvr
+  Assets:
+    - !<FileTexture/147a731d-eff2-401c-96bf-dd44fda13245>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 1024
+        Height: 1024
+  SourceHash: 4f0f4c635740d7c50d8450ffae18e1e1
+  FileHash: 9482cdaf85577ae492ddecad6276ba2d
+  NativePackageItems:
+    []

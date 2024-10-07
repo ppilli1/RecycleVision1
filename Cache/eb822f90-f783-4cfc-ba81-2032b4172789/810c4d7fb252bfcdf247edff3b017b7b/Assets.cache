@@ -1,0 +1,15 @@
+- !<AssetCache/810c4d7f-b252-bfcd-f247-edff3b017b7b>
+  AssetFiles:
+    f419ce99-d063-4984-875b-f19aac8eb638: eb822f90-f783-4cfc-ba81-2032b4172789/810c4d7fb252bfcdf247edff3b017b7b/Data/turnstile_color.png
+  AssetCurrentFiles:
+    f419ce99-d063-4984-875b-f19aac8eb638: eb822f90-f783-4cfc-ba81-2032b4172789/810c4d7fb252bfcdf247edff3b017b7b/Data/Performance/Medium/turnstile_color.pvr
+  Assets:
+    - !<FileTexture/f419ce99-d063-4984-875b-f19aac8eb638>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 512
+        Height: 512
+  SourceHash: 810c4d7fb252bfcdf247edff3b017b7b
+  FileHash: 8ef411ac7b14b014ab97b5796a4b4b6c
+  NativePackageItems:
+    []

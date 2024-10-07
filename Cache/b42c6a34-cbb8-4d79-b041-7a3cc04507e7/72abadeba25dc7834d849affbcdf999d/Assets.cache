@@ -1,0 +1,15 @@
+- !<AssetCache/72abadeb-a25d-c783-4d84-9affbcdf999d>
+  AssetFiles:
+    91d190fc-1311-4eb8-b83f-60f50fdd11fd: b42c6a34-cbb8-4d79-b041-7a3cc04507e7/72abadeba25dc7834d849affbcdf999d/Data/drink_tropical_color.png
+  AssetCurrentFiles:
+    91d190fc-1311-4eb8-b83f-60f50fdd11fd: b42c6a34-cbb8-4d79-b041-7a3cc04507e7/72abadeba25dc7834d849affbcdf999d/Data/Performance/Medium/drink_tropical_color.pvr
+  Assets:
+    - !<FileTexture/91d190fc-1311-4eb8-b83f-60f50fdd11fd>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 512
+        Height: 512
+  SourceHash: 72abadeba25dc7834d849affbcdf999d
+  FileHash: 3fee400f6c4a3cdd3e9659c5083e0e77
+  NativePackageItems:
+    []

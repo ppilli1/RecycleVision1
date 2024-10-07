@@ -1,0 +1,18 @@
+- !<AssetCache/5a40703f-ca96-56a4-9cd6-492d8804a4ed>
+  AssetFiles:
+    c5b70439-186c-4e1d-83d0-4b6d3ec6e080: fdac5cbc-6d11-429d-b407-90215828ecc9/5a40703fca9656a49cd6492d8804a4ed/Data/Soda_Can.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/c5b70439-186c-4e1d-83d0-4b6d3ec6e080>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 540
+        Vertices: 534
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: 5a40703fca9656a49cd6492d8804a4ed
+  FileHash: 07ba9b72d2d1d334bc05baa7f9d518b2
+  NativePackageItems:
+    []

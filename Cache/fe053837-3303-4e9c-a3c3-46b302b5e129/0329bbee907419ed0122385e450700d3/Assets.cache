@@ -1,0 +1,15 @@
+- !<AssetCache/0329bbee-9074-19ed-0122-385e450700d3>
+  AssetFiles:
+    7c02de47-6d20-4e15-a8a4-af79ad98ef06: fe053837-3303-4e9c-a3c3-46b302b5e129/0329bbee907419ed0122385e450700d3/Data/pint_color.png
+  AssetCurrentFiles:
+    7c02de47-6d20-4e15-a8a4-af79ad98ef06: fe053837-3303-4e9c-a3c3-46b302b5e129/0329bbee907419ed0122385e450700d3/Data/Performance/Medium/pint_color.pvr
+  Assets:
+    - !<FileTexture/7c02de47-6d20-4e15-a8a4-af79ad98ef06>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 512
+        Height: 512
+  SourceHash: 0329bbee907419ed0122385e450700d3
+  FileHash: 4fc3a598b7ea579db1d7e9bae09df3ff
+  NativePackageItems:
+    []

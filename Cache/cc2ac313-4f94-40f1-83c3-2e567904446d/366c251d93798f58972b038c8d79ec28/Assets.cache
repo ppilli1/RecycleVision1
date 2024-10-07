@@ -1,0 +1,15 @@
+- !<AssetCache/366c251d-9379-8f58-972b-038c8d79ec28>
+  AssetFiles:
+    3fe66ce0-6f36-4d28-b759-449dfc38ad4b: cc2ac313-4f94-40f1-83c3-2e567904446d/366c251d93798f58972b038c8d79ec28/Data/bin_recycle_tall_color.png
+  AssetCurrentFiles:
+    3fe66ce0-6f36-4d28-b759-449dfc38ad4b: cc2ac313-4f94-40f1-83c3-2e567904446d/366c251d93798f58972b038c8d79ec28/Data/Performance/Medium/bin_recycle_tall_color.pvr
+  Assets:
+    - !<FileTexture/3fe66ce0-6f36-4d28-b759-449dfc38ad4b>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 512
+        Height: 512
+  SourceHash: 366c251d93798f58972b038c8d79ec28
+  FileHash: 59d27d22c428524e7c3ae4a5ee5780c8
+  NativePackageItems:
+    []

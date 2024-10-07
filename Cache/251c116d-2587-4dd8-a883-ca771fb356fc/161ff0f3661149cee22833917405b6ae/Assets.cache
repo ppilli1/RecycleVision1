@@ -1,0 +1,18 @@
+- !<AssetCache/161ff0f3-6611-49ce-e228-33917405b6ae>
+  AssetFiles:
+    b0e468dd-ffbd-4ae4-88a5-1ead457701b0: 251c116d-2587-4dd8-a883-ca771fb356fc/161ff0f3661149cee22833917405b6ae/Data/C_drink_tropical_umbrella_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/b0e468dd-ffbd-4ae4-88a5-1ead457701b0>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 10
+        Vertices: 11
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: 161ff0f3661149cee22833917405b6ae
+  FileHash: 56773849cbdb1558f7527a2f06bd98b5
+  NativePackageItems:
+    []

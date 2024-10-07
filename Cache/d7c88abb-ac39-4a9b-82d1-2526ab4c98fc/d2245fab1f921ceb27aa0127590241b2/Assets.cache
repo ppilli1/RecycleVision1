@@ -1,0 +1,18 @@
+- !<AssetCache/d2245fab-1f92-1ceb-27aa-0127590241b2>
+  AssetFiles:
+    7f80601a-d57a-41e9-ad22-81853388cdbe: d7c88abb-ac39-4a9b-82d1-2526ab4c98fc/d2245fab1f921ceb27aa0127590241b2/Data/CoffeeCup.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/7f80601a-d57a-41e9-ad22-81853388cdbe>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 362
+        Vertices: 322
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: d2245fab1f921ceb27aa0127590241b2
+  FileHash: 69822d2b4878cae6139b93fc87fed08d
+  NativePackageItems:
+    []

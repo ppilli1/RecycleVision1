@@ -1,0 +1,15 @@
+- !<AssetCache/77275035-5163-64b2-8104-a6177a204b95>
+  AssetFiles:
+    9036378e-cbbc-4b71-8377-6134ef8de4a1: 5d018f9f-0f7f-4734-954b-bba12ede2289/77275035516364b28104a6177a204b95/Data/soda_bottle_color.png
+  AssetCurrentFiles:
+    9036378e-cbbc-4b71-8377-6134ef8de4a1: 5d018f9f-0f7f-4734-954b-bba12ede2289/77275035516364b28104a6177a204b95/Data/Performance/Medium/soda_bottle_color.pvr
+  Assets:
+    - !<FileTexture/9036378e-cbbc-4b71-8377-6134ef8de4a1>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 1024
+        Height: 1024
+  SourceHash: 77275035516364b28104a6177a204b95
+  FileHash: d7c5eac9933532d19ff382ac0d3a336e
+  NativePackageItems:
+    []

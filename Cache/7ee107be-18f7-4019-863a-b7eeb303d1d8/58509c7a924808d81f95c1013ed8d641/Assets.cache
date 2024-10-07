@@ -1,0 +1,18 @@
+- !<AssetCache/58509c7a-9248-08d8-1f95-c1013ed8d641>
+  AssetFiles:
+    29e450af-0d34-4302-94c0-f21e531e7c7d: 7ee107be-18f7-4019-863a-b7eeb303d1d8/58509c7a924808d81f95c1013ed8d641/Data/C_sofa_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/29e450af-0d34-4302-94c0-f21e531e7c7d>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 272
+        Vertices: 235
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: 58509c7a924808d81f95c1013ed8d641
+  FileHash: fef0aa4602476e873de6049fa6926301
+  NativePackageItems:
+    []

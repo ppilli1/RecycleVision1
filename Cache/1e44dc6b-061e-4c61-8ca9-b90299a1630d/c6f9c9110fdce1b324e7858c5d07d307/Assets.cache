@@ -1,0 +1,15 @@
+- !<AssetCache/c6f9c911-0fdc-e1b3-24e7-858c5d07d307>
+  AssetFiles:
+    dbee43b1-66cc-477d-912b-459f440aedd5: 1e44dc6b-061e-4c61-8ca9-b90299a1630d/c6f9c9110fdce1b324e7858c5d07d307/Data/ketchup_table_color.png
+  AssetCurrentFiles:
+    dbee43b1-66cc-477d-912b-459f440aedd5: 1e44dc6b-061e-4c61-8ca9-b90299a1630d/c6f9c9110fdce1b324e7858c5d07d307/Data/Performance/Medium/ketchup_table_color.pvr
+  Assets:
+    - !<FileTexture/dbee43b1-66cc-477d-912b-459f440aedd5>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 1024
+        Height: 1024
+  SourceHash: c6f9c9110fdce1b324e7858c5d07d307
+  FileHash: 90a924ddd91bde22c42ffe786f54eb0a
+  NativePackageItems:
+    []

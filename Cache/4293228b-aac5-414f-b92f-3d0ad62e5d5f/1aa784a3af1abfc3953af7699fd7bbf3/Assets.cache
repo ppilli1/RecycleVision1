@@ -1,0 +1,15 @@
+- !<AssetCache/1aa784a3-af1a-bfc3-953a-f7699fd7bbf3>
+  AssetFiles:
+    45860786-e6ba-44f6-bb76-56472c87b31c: 4293228b-aac5-414f-b92f-3d0ad62e5d5f/1aa784a3af1abfc3953af7699fd7bbf3/Data/env_sewer_hole_color.png
+  AssetCurrentFiles:
+    45860786-e6ba-44f6-bb76-56472c87b31c: 4293228b-aac5-414f-b92f-3d0ad62e5d5f/1aa784a3af1abfc3953af7699fd7bbf3/Data/Performance/Medium/env_sewer_hole_color.pvr
+  Assets:
+    - !<FileTexture/45860786-e6ba-44f6-bb76-56472c87b31c>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 512
+        Height: 512
+  SourceHash: 1aa784a3af1abfc3953af7699fd7bbf3
+  FileHash: 2cefb7d7553d7455e125f554d334f40e
+  NativePackageItems:
+    []

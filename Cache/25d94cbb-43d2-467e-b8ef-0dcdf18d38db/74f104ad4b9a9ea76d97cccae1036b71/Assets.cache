@@ -1,0 +1,18 @@
+- !<AssetCache/74f104ad-4b9a-9ea7-6d97-cccae1036b71>
+  AssetFiles:
+    35a0f0e9-22a0-4859-a341-edfc21999261: 25d94cbb-43d2-467e-b8ef-0dcdf18d38db/74f104ad4b9a9ea76d97cccae1036b71/Data/C_rods_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/35a0f0e9-22a0-4859-a341-edfc21999261>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 334
+        Vertices: 252
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: 74f104ad4b9a9ea76d97cccae1036b71
+  FileHash: 25a3bd9042e51cc276e6d4fdf9c6da75
+  NativePackageItems:
+    []

@@ -1,0 +1,15 @@
+- !<AssetCache/a60a3a70-3879-a022-94cb-cba88f33e62a>
+  AssetFiles:
+    eb460ebe-a543-499f-ae47-aba403c39e3f: 7b1307da-03f9-4f8e-bcbd-16332ceb71e7/a60a3a703879a02294cbcba88f33e62a/Data/stool_wooden_color.png
+  AssetCurrentFiles:
+    eb460ebe-a543-499f-ae47-aba403c39e3f: 7b1307da-03f9-4f8e-bcbd-16332ceb71e7/a60a3a703879a02294cbcba88f33e62a/Data/Performance/Medium/stool_wooden_color.pvr
+  Assets:
+    - !<FileTexture/eb460ebe-a543-499f-ae47-aba403c39e3f>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 512
+        Height: 512
+  SourceHash: a60a3a703879a02294cbcba88f33e62a
+  FileHash: 1c10583426b52fef4b145f439fd4cc7f
+  NativePackageItems:
+    []

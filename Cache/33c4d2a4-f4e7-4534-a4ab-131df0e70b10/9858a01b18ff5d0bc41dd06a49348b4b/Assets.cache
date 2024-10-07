@@ -1,0 +1,18 @@
+- !<AssetCache/9858a01b-18ff-5d0b-c41d-d06a49348b4b>
+  AssetFiles:
+    d12bed55-2ba7-4fe9-a400-3cf95199aa89: 33c4d2a4-f4e7-4534-a4ab-131df0e70b10/9858a01b18ff5d0bc41dd06a49348b4b/Data/C_beer_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/d12bed55-2ba7-4fe9-a400-3cf95199aa89>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 216
+        Vertices: 155
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: 9858a01b18ff5d0bc41dd06a49348b4b
+  FileHash: 2340b120eacb5b9292fd949d3ac490a5
+  NativePackageItems:
+    []

@@ -1,0 +1,18 @@
+- !<AssetCache/7500a68c-37c1-ef94-bbf4-d975d5d7c000>
+  AssetFiles:
+    07c0175f-fda4-4790-812b-3e2b306a4127: d423535b-c51d-4da0-a40f-794746cdfc1c/7500a68c37c1ef94bbf4d975d5d7c000/Data/table_leg4_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/07c0175f-fda4-4790-812b-3e2b306a4127>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 38
+        Vertices: 63
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: 7500a68c37c1ef94bbf4d975d5d7c000
+  FileHash: 09b8b0a984ea1cf334cce5bf95d22c32
+  NativePackageItems:
+    []

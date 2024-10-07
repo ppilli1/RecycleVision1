@@ -1,0 +1,15 @@
+- !<AssetCache/61cdd2dc-49eb-503e-cc18-f18f3e6ac000>
+  AssetFiles:
+    f187278d-93bf-4b18-ac21-44f37a508b3a: b766f1bb-65ee-4cee-a8b5-1c7ffd2d41fd/61cdd2dc49eb503ecc18f18f3e6ac000/Data/soda_can_color.png
+  AssetCurrentFiles:
+    f187278d-93bf-4b18-ac21-44f37a508b3a: b766f1bb-65ee-4cee-a8b5-1c7ffd2d41fd/61cdd2dc49eb503ecc18f18f3e6ac000/Data/Performance/Medium/soda_can_color.pvr
+  Assets:
+    - !<FileTexture/f187278d-93bf-4b18-ac21-44f37a508b3a>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 1024
+        Height: 1024
+  SourceHash: 61cdd2dc49eb503ecc18f18f3e6ac000
+  FileHash: 472849fde1bdb95e0ebff38c9428eeb4
+  NativePackageItems:
+    []

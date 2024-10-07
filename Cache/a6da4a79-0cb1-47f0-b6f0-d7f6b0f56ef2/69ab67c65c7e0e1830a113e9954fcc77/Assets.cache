@@ -1,0 +1,15 @@
+- !<AssetCache/69ab67c6-5c7e-0e18-30a1-13e9954fcc77>
+  AssetFiles:
+    15f531c9-b8b7-43b5-9e4d-f723720b6682: a6da4a79-0cb1-47f0-b6f0-d7f6b0f56ef2/69ab67c65c7e0e1830a113e9954fcc77/Data/cup_color.png
+  AssetCurrentFiles:
+    15f531c9-b8b7-43b5-9e4d-f723720b6682: a6da4a79-0cb1-47f0-b6f0-d7f6b0f56ef2/69ab67c65c7e0e1830a113e9954fcc77/Data/Performance/Medium/cup_color.pvr
+  Assets:
+    - !<FileTexture/15f531c9-b8b7-43b5-9e4d-f723720b6682>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 512
+        Height: 512
+  SourceHash: 69ab67c65c7e0e1830a113e9954fcc77
+  FileHash: b5cf0463bffa3212ef06b15fd55d87d0
+  NativePackageItems:
+    []

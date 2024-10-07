@@ -1,0 +1,15 @@
+- !<AssetCache/5097c41d-244c-7c9b-6c0c-5c63b4226e12>
+  AssetFiles:
+    7a600a00-8228-42de-816a-6fa406d5c450: 08592896-d0b2-468c-99c3-ef381c313313/5097c41d244c7c9b6c0c5c63b4226e12/Data/street_lamp_color.png
+  AssetCurrentFiles:
+    7a600a00-8228-42de-816a-6fa406d5c450: 08592896-d0b2-468c-99c3-ef381c313313/5097c41d244c7c9b6c0c5c63b4226e12/Data/Performance/Medium/street_lamp_color.pvr
+  Assets:
+    - !<FileTexture/7a600a00-8228-42de-816a-6fa406d5c450>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 512
+        Height: 512
+  SourceHash: 5097c41d244c7c9b6c0c5c63b4226e12
+  FileHash: 278b46eedba8c75d6d8b8446c6a04ebf
+  NativePackageItems:
+    []

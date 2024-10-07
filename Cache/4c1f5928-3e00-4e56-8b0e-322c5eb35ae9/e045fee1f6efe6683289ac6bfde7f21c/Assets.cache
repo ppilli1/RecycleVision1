@@ -1,0 +1,18 @@
+- !<AssetCache/e045fee1-f6ef-e668-3289-ac6bfde7f21c>
+  AssetFiles:
+    856c5976-b2ef-46c2-8ece-ce65874fdd44: 4c1f5928-3e00-4e56-8b0e-322c5eb35ae9/e045fee1f6efe6683289ac6bfde7f21c/Data/C_bin_recycle_tall_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/856c5976-b2ef-46c2-8ece-ce65874fdd44>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 68
+        Vertices: 118
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: e045fee1f6efe6683289ac6bfde7f21c
+  FileHash: c4529de3f6203fa542f7fc98e2668909
+  NativePackageItems:
+    []

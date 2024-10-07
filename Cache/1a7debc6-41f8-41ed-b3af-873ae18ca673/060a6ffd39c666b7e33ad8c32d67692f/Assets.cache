@@ -1,0 +1,18 @@
+- !<AssetCache/060a6ffd-39c6-66b7-e33a-d8c32d67692f>
+  AssetFiles:
+    92496392-dc2e-49e6-9c9e-b06322450d4d: 1a7debc6-41f8-41ed-b3af-873ae18ca673/060a6ffd39c666b7e33ad8c32d67692f/Data/C_hatchManhole_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/92496392-dc2e-49e6-9c9e-b06322450d4d>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 120
+        Vertices: 122
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: 060a6ffd39c666b7e33ad8c32d67692f
+  FileHash: ba91dbfa6c42e47b5cb39f95e39efd74
+  NativePackageItems:
+    []

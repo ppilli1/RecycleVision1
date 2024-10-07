@@ -1,0 +1,18 @@
+- !<AssetCache/0130023f-e20a-4265-735e-95125d3406df>
+  AssetFiles:
+    6f8b46cb-e296-4456-93d2-6a1c9e9a32e0: 47f9f51d-549f-4e72-8850-842313740bb0/0130023fe20a4265735e95125d3406df/Data/C_seesaw1_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/6f8b46cb-e296-4456-93d2-6a1c9e9a32e0>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 512
+        Vertices: 566
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: 0130023fe20a4265735e95125d3406df
+  FileHash: 87bf80ff00b6c89ddaa0aafc1247792f
+  NativePackageItems:
+    []

@@ -1,0 +1,18 @@
+- !<AssetCache/87f5d49a-fa03-8f35-0c3a-bf7550d8e7c7>
+  AssetFiles:
+    53193c8d-ba10-4e60-b0c0-39c196b7218d: 9a76926c-4452-4e3e-abfd-d68d901c03e2/87f5d49afa038f350c3abf7550d8e7c7/Data/C_water_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/53193c8d-ba10-4e60-b0c0-39c196b7218d>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 64
+        Vertices: 100
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: 87f5d49afa038f350c3abf7550d8e7c7
+  FileHash: e37258d352485dadde2de8523792380c
+  NativePackageItems:
+    []

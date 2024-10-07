@@ -1,0 +1,18 @@
+- !<AssetCache/d2741bb5-3b01-a10a-0b62-2e275d6b3afe>
+  AssetFiles:
+    9ef88d32-050a-47bb-bbe8-154d8377b9b0: 69380937-2c5f-4e90-b02a-3eb2cd68ee05/d2741bb53b01a10a0b622e275d6b3afe/Data/C_hatchTunnel_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/9ef88d32-050a-47bb-bbe8-154d8377b9b0>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 94
+        Vertices: 117
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: d2741bb53b01a10a0b622e275d6b3afe
+  FileHash: 1b7f8f17d283817e3cf21622c2b7af0e
+  NativePackageItems:
+    []
